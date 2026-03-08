@@ -4,7 +4,7 @@ Senior Data Analyst with 8+ years’ experience driving business growth through 
 
 ### 🛠 Technical Skills
 
-* **Languages:**  Python (Pandas, Scikit-learn, NumPy), SQL (SnowFlake, Vertica, MySQL), HTML/CSS
+![Languages]  Python (Pandas, Scikit-learn, NumPy), SQL (SnowFlake, Vertica, MySQL), HTML/CSS
 * **Data Visualisation:**  Tableau, Amplitude, Google Analytics
 * **Data Stack:**  Github, Bash, dbt
 * **Marketing:** AdWords, Bing, Meta, Iterable
