@@ -4,6 +4,7 @@ Senior Data Analyst with 8+ years’ experience driving business growth through 
 
 ### 🛠 Technical Skills
 
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Snowflake-blue)
 ![Languages]  Python (Pandas, Scikit-learn, NumPy), SQL (SnowFlake, Vertica, MySQL), HTML/CSS
 * **Data Visualisation:**  Tableau, Amplitude, Google Analytics
 * **Data Stack:**  Github, Bash, dbt
