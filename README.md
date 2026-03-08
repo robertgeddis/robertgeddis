@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Robert geddis 
 
-<!--
-**robertgeddis/robertgeddis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Data Analyst with 8+ years’ experience driving business growth through data-driven insights. Following a company-wide redundancy, I achieved advanced Python certification and German B2/C1 proficiency. Highly competent in the modern data stack (Python, SQL, Tableau, dbt).
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:**  Python (Pandas, Scikit-learn, NumPy), SQL (SnowFlake, Vertica, MySQL), HTML/CSS
+* **Data Visualisation:**  Tableau, Amplitude, Google Analytics
+* **Data Stack:**  Github, Bash, dbt
+* **Marketing:** AdWords, Bing, Meta, Iterable
+* **Product:**  LaunchDarkly, Monetate
+* **Other:**  GDPR, DSA, A/B Testing Frameworks
+
+### 📈 Featured Projects
+* **[Bitcoin & Gold Analysis](https://github.com/robertgeddis/bitcoin_gold_analysis):** Python based project exploring 10 years of data pertaining to Bitcoin and Gold's relationship in the economy
+* **[A/B Testing](https://github.com/robertgeddis/ab_test):** SQL based framework for conducting A/B testing
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/robertgeddis/)
