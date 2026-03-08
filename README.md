@@ -4,10 +4,10 @@ Senior Data Analyst with 8+ years’ experience driving business growth through 
 
 ### 🛠 Tech Stack
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Snowflake-00758F?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Amplitude-201547?style=flat&logo=amplitude&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Snowflake-00758F?style=flat&logo=postgresql&logoColor=white) <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)<br>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)<br>
+![Amplitude](https://img.shields.io/badge/Amplitude-201547?style=flat&logo=amplitude&logoColor=white)<br>
 
 ### 📈 Featured Projects
 * **[Bitcoin & Gold Analysis](https://github.com/robertgeddis/bitcoin_gold_analysis):** Python based project exploring 10 years of data pertaining to Bitcoin and Gold's relationship in the economy
