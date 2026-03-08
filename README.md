@@ -4,16 +4,6 @@ Senior Data Analyst with 8+ years’ experience driving business growth through 
 
 ### 🛠 Tech Stack
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Snowflake-00758F?style=flat&logo=postgresql&logoColor=white) <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)<br>
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)<br>
-![Amplitude](https://img.shields.io/badge/Amplitude-201547?style=flat&logo=amplitude&logoColor=white)<br>
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)<br>
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)<br>
-![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-37383E?style=flat&logo=launchdarkly&logoColor=405BFF)
-
-### 🛠 Tech Stack
-
 **Data Analytics**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Snowflake-00758F?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
