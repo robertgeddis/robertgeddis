@@ -1,6 +1,6 @@
-# Hi, I'm Robert geddis 
+# Hi, I'm Robert Geddis 
 
-### Senior Data Analyst with 8+ years’ experience driving business growth through data-driven insights. Following a company-wide redundancy, I achieved advanced Python certification and German B2/C1 proficiency. Highly competent in the modern data stack (Python, SQL, Tableau, dbt).
+Senior Data Analyst with 8+ years’ experience driving business growth through data-driven insights. Following a company-wide redundancy, I achieved advanced Python certification and German B2/C1 proficiency. Highly competent in the modern data stack (Python, SQL, Tableau, dbt).
 
 ### 🛠 Technical Skills
 
