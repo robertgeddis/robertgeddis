@@ -12,5 +12,5 @@ Senior Data Analyst with 8+ years’ experience driving business growth through 
 ### 📈 Featured Projects
 * **[Bitcoin & Gold Analysis Project](https://github.com/robertgeddis/bitcoin_gold_analysis_project):** Python-based analysis of Bitcoin as 'Digital Gold' thesis based on 10 years of economic data.
 * **[A/B Testing](https://github.com/robertgeddis/ab_testing):** Framework for measuring the success of experimentation through standardized metrics and statistical significance. 
-* **[Marketing Analysis](https://github.com/robertgeddis/marketing_analysis):** Library of SQL scripts for a wide range of marketing analysis, from marketplace liquidity, full-funnel performance to ROI.
+* **[Marketing Analysis](https://github.com/robertgeddis/marketing_analysis):** Library of SQL scripts for a wide range of analysis from marketplace liquidity, full-funnel performance to ROI.
 
